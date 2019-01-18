@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/transitive.dir/transitive.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/transitive.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/transitive.cpp"
+},
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/topoSort610.dir/topoSort610.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/topoSort610.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/topoSort610.cpp"
+},
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/code.dir/main.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/main.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/main.cpp"
+},
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/code.dir/DGraph.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DGraph.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DGraph.cpp"
+},
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/topSort.dir/topSort.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/topSort.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/topSort.cpp"
+},
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/dfs.dir/DFS.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DFS.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DFS.cpp"
+},
+{
+  "directory": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug",
+  "command": "/usr/bin/clang++-5.0    -g   -std=gnu++14 -o CMakeFiles/bfs.dir/BFS.cpp.o -c /home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/BFS.cpp",
+  "file": "/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/BFS.cpp"
+}
+]

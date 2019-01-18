@@ -1,0 +1,1 @@
+/usr/bin/clang++-5.0  -g   CMakeFiles/code.dir/main.cpp.o CMakeFiles/code.dir/DGraph.cpp.o  -o code 

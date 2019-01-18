@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transitive">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/transitive" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 transitive"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transitive/fast">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/transitive" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 transitive/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="topoSort610">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/topoSort610" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 topoSort610"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="topoSort610/fast">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/topoSort610" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 topoSort610/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code/fast">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="topSort">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/topSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 topSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="topSort/fast">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/topSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 topSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dfs">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/dfs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 dfs"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dfs/fast">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/dfs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 dfs/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bfs">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/bfs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 bfs"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bfs/fast">
+				<Option output="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/bfs" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward"/>
+					<Add directory="/usr/include/clang/5.0.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/llvm-5.0/lib/clang/5.0.0/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 bfs/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/BFS.cpp">
+			<Option target="bfs"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DFS.cpp">
+			<Option target="dfs"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DGraph.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/DGraph.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/main.cpp">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/topSort.cpp">
+			<Option target="topSort"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/topoSort610.cpp">
+			<Option target="topoSort610"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/transitive.cpp">
+			<Option target="transitive"/>
+		</Unit>
+		<Unit filename="/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

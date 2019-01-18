@@ -1,0 +1,27 @@
+BEGIN {
+ int to_visit[];
+ void add_req(node_t N) {
+  edge_t e;
+  for (e = fstout(N); e; e = nxtout(e))
+   to_visit[e.head.name] = 1;
+ }
+}
+
+BEG_G {
+ $tvtype = TV_fwd;
+ $tvroot = node($, "BOS");
+ to_visit[$tvroot.name] = 1;
+ add_req($tvroot);
+ graph_t g = graph("A closure", "D");
+}
+
+E {
+ if (to_visit[$.tail.name]) {
+  copy(g, $);
+  add_req($.head);
+ }
+}
+
+END_G {
+ $O = g;
+}

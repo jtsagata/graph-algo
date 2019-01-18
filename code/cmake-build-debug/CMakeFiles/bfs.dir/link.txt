@@ -1,0 +1,1 @@
+/usr/bin/clang++-5.0  -g   CMakeFiles/bfs.dir/BFS.cpp.o  -o bfs 

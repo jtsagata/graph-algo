@@ -1,0 +1,8 @@
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/transitive.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/topoSort610.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/code.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/topSort.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/dfs.dir
+/home/talos/Desktop/Nextcloud/B-Semester/AlgorithmsDS/Assignments/Assignment-4/code/cmake-build-debug/CMakeFiles/bfs.dir

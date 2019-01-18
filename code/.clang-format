@@ -1,0 +1,14 @@
+---
+Language:        Cpp
+Standard:        Cpp11
+BasedOnStyle:    LLVM
+ColumnLimit:     80
+TabWidth:        2
+UseTab:          Never
+
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: false
+
+CommentPragmas: '#!/usr/bin/e'
+...
+

@@ -1,0 +1,1 @@
+/usr/bin/clang++-5.0  -g   CMakeFiles/transitive.dir/transitive.cpp.o  -o transitive 

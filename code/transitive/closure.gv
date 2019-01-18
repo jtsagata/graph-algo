@@ -1,0 +1,7 @@
+digraph closure {
+ BOS -> JFK;
+ BOS -> MIA;
+ JFK -> MIA;
+ JFK -> DFW;
+ JFK -> SFO;
+}
